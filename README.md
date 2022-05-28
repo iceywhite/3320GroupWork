@@ -67,5 +67,15 @@ pred = RF_model.predict(X_test)
 pred_prob = RF_model.predict_proba(X_test)
 classification_summary(pred,pred_prob,'Random Forest Classifier (RF)')
 ```
+4. Naive Bayes
+```python
+# Building Naive Bayes Classifier
+
+NB_model = BernoulliNB()
+NB_model.fit(X_train,y_train)
+pred = NB_model.predict(X_test)
+pred_prob = NB_model.predict_proba(X_test)
+classification_summary(pred,pred_prob,'Naïve Bayes Classifier (NB)')
+```
 
 
