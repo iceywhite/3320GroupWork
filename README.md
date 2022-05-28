@@ -18,8 +18,8 @@ A：We read a lot of literature and referenced some previous experience in prepr
 A: The next step will show this
 
 #### References
-https://pdfs.semanticscholar.org/ad8a/7f620a57478ff70045f97abc7aec9687ccbd.pdf
-http://www.aclweb.org/website/old_anthology/S/S13/S13-2.pdf#page=526
+https://pdfs.semanticscholar.org/ad8a/7f620a57478ff70045f97abc7aec9687ccbd.pdf<br>
+http://www.aclweb.org/website/old_anthology/S/S13/S13-2.pdf#page=526<br>
 http://oro.open.ac.uk/34929/1/76490497.pdf
 
 Data Preprocess
