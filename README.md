@@ -46,6 +46,26 @@ pred = log_reg_model.predict(X_test)
 pred_prob = log_reg_model.predict_proba(X_test)
 classification_summary(pred,pred_prob,'Logistic Regression (LR)')
 ```
+2.Decison Tree
+```python
+# Building Decision Tree Classifier
 
+DT_model = DecisionTreeClassifier()
+DT_model.fit(X_train, y_train)
+pred = DT_model.predict(X_test)
+pred_prob = DT_model.predict_proba(X_test)
+classification_summary(pred,pred_prob,'Decision Tree Classifier (DT)')
+```
+
+3. Random Forest
+```python
+# Building Random Forest Classifier
+
+RF_model = RandomForestClassifier()
+RF_model.fit(X_train, y_train)
+pred = RF_model.predict(X_test)
+pred_prob = RF_model.predict_proba(X_test)
+classification_summary(pred,pred_prob,'Random Forest Classifier (RF)')
+```
 
 
