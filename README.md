@@ -79,3 +79,18 @@ classification_summary(pred,pred_prob,'Naïve Bayes Classifier (NB)')
 ```
 
 
+Conclusion
+--
+From the above experimentation we can conclude that:
+  ·Basic preprocessing techniques help us to get rid of unwanted character and gave us the clean data.
+
+  ·The labels in the target variable were somewhat uniformally distributed.
+
+  ·The performace of models were almost similar.
+
+  ·Considering the all metrics, we see Random Forest Classifier performed the best on the current dataset.
+
+  ·Being an equal contendor, it is wise to also consider simpler models like Logisitic Regression as it is more generalisable & computationally less expensive.
+
+
+
