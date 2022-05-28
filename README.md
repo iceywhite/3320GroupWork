@@ -8,6 +8,14 @@ It is observed that some people misuse it to tweet hateful content. These conten
 
 In order to initially achieve the above-mentioned purpose. We decided to use the Twitter sentiment corpus, using different feature sets and machine learning classifiers to determine the best combination for Twitter sentiment analysis. We also experimented with various pre-processing steps like - punctuations, emoticons, twitter specific terms and stemming. We investigated the following features - unigrams, bigrams, trigrams and negation detection. We finally train our classifier using various machine-learning algorithms -  Linear Regression , Decision Trees, Random Forest and Naive Bayes
 
+2- Q：Comment on the important parts of your code
+A：We have added comments to the code block
+
+3- Q：
+A：
+
+4- Q: Show whether you have done any data preprocessing
+A: The next step will show this
 
 Data Preprocess
 --
