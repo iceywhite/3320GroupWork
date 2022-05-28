@@ -1,6 +1,8 @@
 Twitter Sentiment Analysis
 ==
 
+Github link:
+
 Before running this project, please prepare the required environment for the project in advance. If the environment is already set up, then you can easily run the code directly and see the results. The training dataset for this project is stored in the tweet-sentiment-extraction folder in .csv format. If you want to change the training dataset, you can import the data yourself and change the path in tweets_df = pd.read_csv('tweet-sentiment-extraction/train.csv', header=0) statement. The functions of the related methods and classes in this project have detailed comments before the code, and you can change and test them according to your needs.
 
 Introduction
