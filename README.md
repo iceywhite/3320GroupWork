@@ -11,12 +11,12 @@ In order to initially achieve the above-mentioned purpose. We decided to use the
 
 Data Preprocess
 --
-####Dataset
---
+Dataset
+##
 We use the Twitter sentiment corpus provided by Kaggle. Each entry in the corpus contains Tweet id, Topic and Sentiment tags.
 
-####Preprocessing
---
+Preprocessing
+##
 Unlike other training data, the Twitter text dataset does not follow certain patterns. Users do not write according to a uniform rule, so it is necessary to preprocess the data set.
 
 1. Replace all non-English characters such as punctuation, numbers, etc. with spaces
